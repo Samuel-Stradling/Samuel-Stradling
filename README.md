@@ -1,4 +1,4 @@
-## Hi there 👋
+## First Year Computer Science student at the University of St Andrews
 
 <!--
 **Samuel-Stradling/Samuel-Stradling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
